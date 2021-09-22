@@ -121,9 +121,9 @@ sections:
     title: Join our club
     bottomGap: none
     topGap: none
-    text: >-
+    text: >
       We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not.
+      and you could immediatly let us know if you want in or not....
     feature:
       type: ImageBlock
       url: /images/contact.png
